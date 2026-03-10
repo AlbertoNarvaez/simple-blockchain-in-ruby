@@ -1,0 +1,48 @@
+[
+  {
+    "index": 0,
+    "block_id": "06b8c06a-a34d-45c9-b02d-319ba439743c",
+    "timestamp": "2026-03-10 10:32:37 +0100",
+    "previous_hash": "0",
+    "hash": "006fe94a72027429ada1a65008e27cadc6b558f28ec04a017d80e5ce73e948ee",
+    "nonce": 439,
+    "transactions": [
+      {
+        "from": "Alberto",
+        "to": "Salvador",
+        "what": "Peniques",
+        "qty": 10
+      },
+      {
+        "from": "Keukenhof",
+        "to": "Anne",
+        "what": "Tulip Semper Augustus",
+        "qty": 7
+      }
+    ],
+    "transactions_count": 2
+  },
+  {
+    "index": 1,
+    "block_id": "7f005152-5282-4a7e-9e00-9f5274aede89",
+    "timestamp": "2026-03-10 10:33:05 +0100",
+    "previous_hash": "006fe94a72027429ada1a65008e27cadc6b558f28ec04a017d80e5ce73e948ee",
+    "hash": "006062a1ca2cf42a2908c140e6680aa903f9869dc2cd7e56c6ccac1d43bee7f9",
+    "nonce": 99,
+    "transactions": [
+      {
+        "from": "Alberto",
+        "to": "David",
+        "what": "Manzanas",
+        "qty": "10"
+      },
+      {
+        "from": "Alberto",
+        "to": "David",
+        "what": "Peras",
+        "qty": "10"
+      }
+    ],
+    "transactions_count": 2
+  }
+]
